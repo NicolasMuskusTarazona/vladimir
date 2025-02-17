@@ -1,0 +1,14 @@
+:root{
+    --color-1: white;
+    --color-2: rgb(66, 26, 26);
+}
+
+@font-face {
+    font-family: "ExtraBoldItalic";
+    src: url(../stora/font/Inter/static/Inter_28pt-ExtraBoldItalic.ttf);
+}
+
+@font-face {
+    font-family: "Regular";
+    src: url(../stora/font/Inter/static/Inter_18pt-Medium.ttf);
+}
